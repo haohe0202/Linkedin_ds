@@ -1,0 +1,3 @@
+The process starts with two technical screening, one. SQL(expect two intermediate question with follow up question) screen share and one case study. If you clear both then the on-site is mostly focused around intermediate SQL and R/Python, stats and A/B testing, Statistical modelling (pretty basic ones like linear, logistic and KNN and little bit of random forest), case study (not really any stucture for this). Hope it's helpful.
+
+This is the engineering/infra track. If you want the ML track make sure you’re interviewing with track 2. DS is not standard ML engineering but there’s a track who focuses more on it vs standard ab testing etc
